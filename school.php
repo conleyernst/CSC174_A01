@@ -3,18 +3,19 @@
 <html>
 	<head>
 		<title>Website</title>
+
+		<?php include('navigation.php');?>
 	</head>
 	<body>
 
-		<!-- <?php include('navigation.php');?> -->
-		<nav>
+		<!-- <nav>
   			<a href="index.html">Home</a> |
   			<a href="school.html">School</a> |
-		</nav>
+		</nav> -->
 
 		<h1>SCHOOL</h1>
 		<p>
-			<a href="index.html" target="_self">Link to HOME</a>
+			<a href="index.php" target="_self">Link to HOME</a>
 		</p>
 	</body>
 
