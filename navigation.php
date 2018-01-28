@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <nav>
   	<a href="index.php">Home</a>
   	<a href="school.php">School</a>
