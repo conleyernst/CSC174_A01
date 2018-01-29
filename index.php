@@ -11,21 +11,26 @@
 	<body>
 		<h1>Conley Ernst</h1>
 
-		<img src="imgs/conley.jpg" alt="Conley Ernst">
+		<div class="row">
+			<div class="column side">
+				<img src="imgs/conley.jpg" alt="Conley Ernst">
+			</div>
 
-		<p>
+		<!-- <p>
 			<a href="school.php" target="_self">Link to page 2</a>
-		</p>
+		</p> -->
+			<div class="column middle">
+				<div class="basicinfo">
+					<p>Majors: Computer Science and Digital Media Studies</p>
+					<p>Year: Class of 2019</p>
+				</div>
 
-		<div class="basicinfo">
-			<p>Majors: Computer Science and Digital Media Studies</p>
-			<p>Year: Class of 2019</p>
-		</div>
-
-		<div class="textblock">
-			<p>
-				I am a Junior at the University of Rochester double majoring in Computer Science and Digital Media Studies, which provides the unique intersection of engineering and creative arts. Studying to be a software engineer, my academic and professional experience has given me a strong understanding of both the technical and user experience sides of a product.
-			</p>
+				<div class="textblock">
+					<p>
+						I am a Junior at the University of Rochester double majoring in Computer Science and Digital Media Studies, which provides the unique intersection of engineering and creative arts. Studying to be a software engineer, my academic and professional experience has given me a strong understanding of both the technical and user experience sides of a product.
+					</p>
+				</div>
+			</div>
 		</div>
 	</body>
 
