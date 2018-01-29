@@ -14,10 +14,12 @@
   			<a href="school.html">School</a> |
 		</nav> -->
 
-		<h1>SCHOOL</h1>
-		<p>
+		<h1>School Information</h1>
+		<!-- <p>
 			<a href="index.php" target="_self">Link to HOME</a>
-		</p>
+		</p> -->
+
+		<img src="imgs/roch.jpg" alt="Rochester Crest">
 
 		<div class="textblock">
 			<p>

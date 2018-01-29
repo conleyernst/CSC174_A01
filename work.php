@@ -14,7 +14,9 @@
   			<a href="school.html">School</a> |
 		</nav> -->
 
-		<h1>WORK</h1>
+		<h1>Work Information</h1>
+
+		<img src="imgs/drift.jpg" alt="Rochester Crest">
 
 
 		<div class="textblock">
@@ -24,9 +26,9 @@
 			<p>
 				I also have worked on campus. I am currently a Meridian, aka a tour guide. I give both regular and engineering campus tours. I have also previously worked as a TA for the department of computer science. 
 			</p>
-			<p>
+			<!-- <p>
 				<a href="index.php" target="_self">Link to HOME</a>
-			</p>
+			</p> -->
 		</div>
 	</body>
 

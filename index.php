@@ -2,21 +2,23 @@
 
 <html>
 	<head>
-		<title>Website</title>
+		<title>Assignment One</title>
 
 		<?php include('navigation.php');?>
-		<link rel="stylesheet" href="styles.css">
+		<!-- <link rel="stylesheet" href="styles.css"> -->
 
 		<!-- <link rel="stylesheet" href="styles.css"> -->
 	</head>
 	<body>
 		<h1>Conley Ernst</h1>
 
-		<img src="imgs/conley.jpg" alt="Conley Ernst" style="width:500px;height:600px;">
+		<!-- <img src="imgs/conley.jpg" alt="Conley Ernst" style="width:300px;"> -->
+		<img src="imgs/conley.jpg" alt="Conley Ernst">
+
 			
 		<div class="basicinfo">
-			<p>Majors: Computer Science and Digital Media Studies</p>
-			<p>Year: Class of 2019</p>
+			<h3>Majors: Computer Science and Digital Media Studies</h3>
+			<h3>Year: Class of 2019</h3>
 		</div>
 
 		<div class="textblock">
